@@ -3067,7 +3067,7 @@ define("app/src/share_explorer/main", ["lib/jquery-lib", "lib/util", "lib/ztree/
                         }
                         if (inArray(core.filetype.image, t)) {
                             var n = urlDecode(e);
-                            return -1 == e.indexOf("http:") && (n = core.path2url(n)), MaskView.image(n), void 0
+                            return -1 == e.indexOf("https:") && (n = core.path2url(n)), MaskView.image(n), void 0
                         }
                         if (inArray(core.filetype.music, t) || inArray(core.filetype.movie, t)) {
                             var n = core.path2url(e);

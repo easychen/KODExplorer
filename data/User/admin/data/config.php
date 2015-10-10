@@ -1,1 +1,1 @@
-<?php exit;?>{"list_type":"icon","list_sort_field":"name","list_sort_order":"up","theme":"default\/","codetheme":"clouds","wall":"http:\/\/ww4.sinaimg.cn\/large\/40dfde6fjw1ewp5mji0svj21hc0xc4qp.jpg","musictheme":"mp3player","movietheme":"webplayer"}
+<?php exit;?>{"list_type":"icon","list_sort_field":"name","list_sort_order":"up","theme":"default\/","codetheme":"clouds","wall":"https:\/\/wjself.me\/static\/40dfde6fjw1ewp5mji0svj21hc0xc4qp.jpg","musictheme":"mp3player","movietheme":"webplayer"}
