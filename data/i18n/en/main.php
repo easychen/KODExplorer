@@ -125,8 +125,8 @@ $L = array(
 
 	"copyright_desc"  			=>"This is a highly acclaimed web document management system, you can use it to do the internal document management or share, can also be used to manage the website on the server, instead of Ftp
 Even as webIDE, can be directly online development. You can also integrate the two times the development of this program to your existing system. ",
-	'copyright_contact'  		=>'contract me:3232048103@qq.com <a href="javascript:core.openIE(\'http://kalcaddle.com/qa.html\');">Q&A</a>',
-	"copyright_info"  			=>'Copyright © <a href="http://kalcaddle.com/" target="_blank">kalcaddle.com</a> All rights reserved.',
+	'copyright_contact'  		=>'contract me:wjself@live.com <a href="javascript:core.openIE(\'https://wjself.me/\');">Q&A</a>',
+	"copyright_info"  			=>'Copyright © <a href="https://wjself.me/" target="_blank">wjself.me</a> All rights reserved.',
 	"copyright_pre"  			=>'Powered by KodExplorer',
 	"kod_name"  				=> "KodExplorer",
 	"kod_name_desc" 			=> "kod online explorer",

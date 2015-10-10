@@ -88,19 +88,5 @@
 	});
 	seajs.use("app/src/desktop/main");
 </script>
-<div class="global_share">
-	<!-- JiaThis Button BEGIN -->
-	<div class="jiathis_style">
-	<a class="jiathis_button_weixin"></a>
-	<a class="jiathis_button_tsina"></a>
-	<a class="jiathis_button_tieba"></a>
-	<a class="jiathis_button_cqq"></a>
-	<a class="jiathis_button_email"></a>
-	<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
-	<a class="jiathis_counter_style"></a>
-	</div>
-	<!-- JiaThis Button END -->	
-</div>
-<script type="text/javascript" src="http://v2.jiathis.com/code/jia.js" charset="utf-8"></script>
 </body>
 </html>
